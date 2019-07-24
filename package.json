@@ -1,0 +1,16 @@
+{
+  "name": "first_bot",
+  "version": "1.0.0",
+  "description": "My first discord bot in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs test.js"
+  },
+  "author": "Tristan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eslint": "^5.12.1",
+    "mysql": "^2.16.0"
+  }
+}
